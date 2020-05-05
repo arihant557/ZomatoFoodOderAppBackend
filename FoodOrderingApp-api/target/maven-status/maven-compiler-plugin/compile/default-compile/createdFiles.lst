@@ -5,6 +5,7 @@ com\upgrad\FoodOrderingApp\api\model\DeleteAddressResponse.class
 io\swagger\configuration\HomeController.class
 com\upgrad\FoodOrderingApp\api\model\ItemList$ItemTypeEnum.class
 com\upgrad\FoodOrderingApp\api\model\UpdatePasswordRequest.class
+com\upgrad\FoodOrderingApp\api\controller\AddressController.class
 io\swagger\api\ApiResponseMessage.class
 com\upgrad\FoodOrderingApp\api\model\RestaurantDetailsResponseAddress.class
 com\upgrad\FoodOrderingApp\api\model\CategoryDetailsResponse.class

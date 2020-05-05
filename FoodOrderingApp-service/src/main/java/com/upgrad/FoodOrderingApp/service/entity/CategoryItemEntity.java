@@ -6,7 +6,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
-
+//category item entity
 @Entity
 @Table(name="category_item")
 public class CategoryItemEntity {

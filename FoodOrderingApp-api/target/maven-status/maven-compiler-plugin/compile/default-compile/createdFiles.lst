@@ -21,6 +21,7 @@ io\swagger\Swagger2SpringBoot.class
 io\swagger\api\ApiOriginFilter.class
 com\upgrad\FoodOrderingApp\api\FoodOrderingAppApiApplication.class
 com\upgrad\FoodOrderingApp\api\model\AddressListResponse.class
+com\upgrad\FoodOrderingApp\api\controller\RestaurantController.class
 com\upgrad\FoodOrderingApp\api\model\RestaurantListResponse.class
 io\swagger\Swagger2SpringBoot$ExitException.class
 com\upgrad\FoodOrderingApp\api\model\RestaurantList.class

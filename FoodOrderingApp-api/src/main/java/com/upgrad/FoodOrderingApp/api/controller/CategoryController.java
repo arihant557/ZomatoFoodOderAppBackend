@@ -24,6 +24,7 @@ import java.util.UUID;
 import java.util.stream.Collectors;
 
 @RestController
+// in this contoller we are fetching the data of category.
 public class  CategoryController {
     @Autowired
     private CategoryService cs;

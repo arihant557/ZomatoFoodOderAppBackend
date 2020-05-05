@@ -16,6 +16,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
+// in this contoller we are fetching the data of address.
 public class AddressController {
     @Autowired
     private CustomerService CSI;

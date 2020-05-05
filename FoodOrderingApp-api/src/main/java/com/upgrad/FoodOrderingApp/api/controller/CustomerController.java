@@ -20,6 +20,7 @@ import java.util.Map;
 import java.util.UUID;
 
 @RestController
+// in this contoller we are fetching the data of customer.
 public class CustomerController {
 
     @Autowired

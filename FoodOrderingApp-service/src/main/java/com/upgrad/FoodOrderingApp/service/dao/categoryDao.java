@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.List;
-
+//categorydao class implements serializable interface
 @Repository
 public class categoryDao implements Serializable {
     @PersistenceUnit

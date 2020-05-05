@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.List;
-
+// class AddressDao implements Serializable
 @Repository
 public class AddressDao implements Serializable {
     @PersistenceContext

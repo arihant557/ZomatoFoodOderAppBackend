@@ -5,7 +5,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
-
+// address entity class
 @Entity
 @Table(name="address")
 public class AddressEntity {

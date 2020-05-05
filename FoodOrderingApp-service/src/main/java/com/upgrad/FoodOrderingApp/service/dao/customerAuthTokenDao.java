@@ -9,7 +9,7 @@ import javax.persistence.NoResultException;
 import javax.persistence.*;
 import javax.transaction.Transactional;
 import java.io.Serializable;
-
+//customerAuthTokenDao implements serilizable interface
 @Repository
 public class customerAuthTokenDao implements Serializable {
     @PersistenceContext
